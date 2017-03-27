@@ -18,7 +18,7 @@ What about your career journey is different from your peers? What separates you 
 
 
 
-I like to occasionally step back and check in with everyone to make sure things are groovy. I try to make sure people are all on the same page in terms of how the end user with use software. Also prone to stop working occasionally and try to reinforce the overall why's and who's.
+I like to occasionally step back and check in with everyone to make sure things are groovy. I try to make sure people are all on the same page in terms of how the end user will experience the software. Also prone to stop working occasionally and try to reinforce the overall why's and who's.
 
  
 # Question 3
