@@ -80,3 +80,8 @@ What kind of external validation have you received?  Include testimonials from o
 
 
 I was the fourth grade spelling champion and first chair saxophonist in my high school jazz band. I was selected to spearhead some new educational policies at my logistics company, and my mother says that I'm handsome.
+
+## to editors and peers and others
+Planning on more coherent, concise version, but figured I'd ask for feedback on what little snippets sound interesting/professional/nonsense.
+
+All feedback is welcome; looking forward to peepin' at yours!
