@@ -29,7 +29,7 @@ What were you doing before DBC? What/who impacted your decision to come to DBC?
 
 Before I came to DBC, I was organizing and moving goods and people across the country. At least that's what I was trying to do. I felt very limited in things I could impact at the job I was working. The turning point that made me decide to jump into coding was when we began to implement a technology at my workplace. It was counterintuitive, and inefficient. When I wasn't explaining how to use it to others, I was thinking of ways it could be improved.
 
-I have a good friend from when I was younger and we both drew comics and wrote stories and played games together, he has since gone on to become a developer and always hinted that it would be something I would enjoy. He dropped me a hint about DBC and mentioned some of his coworkers were graduates. It let me begin thinking that doing something similar was not outside the realm of possibility even though I did not have the formal education.
+I have a good friend from when I was younger and we both drew comics and wrote stories and played games together, he has since gone on to become a developer and always hinted that it would be something I would enjoy. He dropped me a line about DBC and mentioned some of his coworkers were graduates. It let me begin thinking that doing something similar was not outside the realm of possibility even though I did not have the formal education.
 
  
 # Question 4
