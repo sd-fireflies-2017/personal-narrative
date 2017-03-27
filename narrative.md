@@ -11,5 +11,7 @@ Overall, it's a very good 'get to know me' paragraph.
 -Brendan:
 
 I agree that the natural connection to computers may not be as obvious to some.  Related note - do you know of the book Godel Escher Bach?  May be of interest to you re: consciousness and computers/
+
 Good introduction to your experience and interests overall.
+
 Minor style point -> "There I gained a lot of experience working." I'd refactor this to "I gained experience working".  'a lot' is a bit of a throwaway, and 'there' is implied by the positioning of the sentence.
